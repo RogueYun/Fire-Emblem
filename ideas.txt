@@ -1,0 +1,3 @@
+# ideas.txt
+
+This is a just a text file to write some ideas for review. This will likely be antiquated by other tools found on github.
