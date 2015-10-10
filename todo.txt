@@ -1,0 +1,3 @@
+# todo.txt
+
+This is just a basic todo list where parts that need to be done are listed. I have a feeling that this list is likely to be ignored, but I'm okay with that.
